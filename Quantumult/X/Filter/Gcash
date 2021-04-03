@@ -1,0 +1,5 @@
+# > Gcash
+USER-AGENT,gcash*,Gcash
+DOMAIN-KEYWORD,gcash,Gcash
+DOMAIN-SUFFIX,pass.mynt.xyz,Gcash
+DOMAIN-SUFFIX,mynt.xyz,Gcash
