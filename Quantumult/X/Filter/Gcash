@@ -1,5 +1,8 @@
 # > Gcash
 USER-AGENT,gcash*,Gcash
+USER-AGENT,paymaya*,Gcash
 DOMAIN-KEYWORD,gcash,Gcash
+DOMAIN-KEYWORD,paymaya,Gcash
 DOMAIN-SUFFIX,pass.mynt.xyz,Gcash
 DOMAIN-SUFFIX,mynt.xyz,Gcash
+DOMAIN-SUFFIX,corp.voyager.ph,Gcash
