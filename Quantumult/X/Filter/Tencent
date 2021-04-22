@@ -1,0 +1,17 @@
+# > Tencent
+USER-AGENT,MicroMessenger*,Tencent
+USER-AGENT,WeChat*,Tencent
+USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,Tencent
+DOMAIN-SUFFIX,gcloudcs.com,Tencent
+DOMAIN-SUFFIX,gtimg.com,Tencent
+DOMAIN-SUFFIX,idqqimg.com,Tencent
+DOMAIN-SUFFIX,myapp.com,Tencent
+DOMAIN-SUFFIX,myqcloud.com,Tencent
+DOMAIN-SUFFIX,qq.com,Tencent
+DOMAIN-SUFFIX,qqmail.com,Tencent
+DOMAIN-SUFFIX,servicewechat.com,Tencent
+DOMAIN-SUFFIX,tencent.com,Tencent
+DOMAIN-SUFFIX,tencent-cloud.net,Tencent
+DOMAIN-SUFFIX,tenpay.com,Tencent
+DOMAIN-SUFFIX,wechat.com,Tencent
+IP-CIDR,203.205.254.0/23,Tencent
