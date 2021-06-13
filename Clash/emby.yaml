@@ -1,6 +1,4 @@
 payload:
-  # > HBO NOW & Max
-  - PROCESS-NAME,com.hbo.hbonow
   - DOMAIN-SUFFIX,emby.maying.club
   - DOMAIN-SUFFIX,emby-cf.plusmedia.site
   - DOMAIN-SUFFIX,xeton.dev
