@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,pass.mynt.xyz,Gcash
 DOMAIN-SUFFIX,mynt.xyz,Gcash
 DOMAIN-SUFFIX,corp.voyager.ph,Gcash
 DOMAIN-SUFFIX,voyagerapis.com,Gcash
+# > eepay
+DOMAIN-SUFFIX,eepay.ph,Gcash
+DOMAIN-SUFFIX,ulogs.umeng.com,Gcash
