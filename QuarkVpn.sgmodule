@@ -1,0 +1,9 @@
+#!name=QuarkVpn
+#!desc=QuarkVpn
+
+
+[Script]
+QuarkVpnProCrack = type=http-response,pattern=^https?:\/\/.*api\.italianbooray\.com\/Api\/getAccountInfo$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/QuarkVpnProCrack.js
+
+[MITM]
+hostname= %APPEND% *api.italianbooray.com
